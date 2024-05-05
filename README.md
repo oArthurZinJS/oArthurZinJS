@@ -1,7 +1,7 @@
 <h1  style="color: whitesmoke">Olá, meu nome é Arthur e tenho 18 anos. Programo em cerca de 4 meses em Java. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.</h1><br>
 <div style="display: inline_block" align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oArthurZinJS&show_icons=true&theme=highcontrast&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oArthurZinJS&layout=compact&theme=highcontrast"/>
+ 
 </div>
 <br>
 <hr>
